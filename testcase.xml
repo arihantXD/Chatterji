@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns3:testcase xmlns="http://purl.org/dc/elements/1.1/"
+    xmlns:ns6="http://jazz.net/xmlns/alm/qm/v0.1/executionresult/v0.1"
+    xmlns:ns5="http://jazz.net/xmlns/alm/qm/v0.1/testscript/v0.1/"
+    xmlns:ns2="http://jazz.net/xmlns/alm/v0.1/"
+    xmlns:ns4="http://jazz.net/xmlns/alm/qm/v0.1/executionworkitem/v0.1"
+    xmlns:ns3="http://jazz.net/xmlns/alm/qm/v0.1/">
+    <title>Test Case 2</title>
+    <description></description>
+    <ns3:category term="Test Phase" value="User Acceptance Test" />
+    <ns3:category term="Type" value="Abnormal Path" />
+    <ns3:webId>107</ns3:webId>
+</ns3:testcase>
